@@ -671,6 +671,7 @@ span {
 
 .project h2 {
 margin-bottom: 3rem;
+margin-right: -2rem;
 }
 
 .project-container {
@@ -727,9 +728,4 @@ margin: 20px;
 
   }
 
-@media (max-width: 768px) {
-  section {
-    min-height: auto;
-    padding: 6rem 5% 2rem; /* smaller padding for mobile */
-  }
-}
+
