@@ -601,6 +601,9 @@ span {
     section {
       padding: 10rem 3% 2rem;
     }
+    .home {
+    padding-bottom: 7rem;
+    }
     .skills {
       padding-bottom: 7rem;
     }
