@@ -674,6 +674,9 @@ margin-bottom: 3rem;
 margin-right: -2rem;
 }
 
+.skills{
+    padding-bottom:0rem;
+  }
 .project-container {
   grid-template-columns: repeat(1, 1fr);
 }
