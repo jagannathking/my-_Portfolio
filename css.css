@@ -103,12 +103,7 @@ body {
     min-height: 100vh;
     padding: 10rem 9% 2rem;
   }
-@media (max-width: 768px) {
-  section {
-    min-height: auto;
-    padding: 6rem 5% 2rem; /* smaller padding for mobile */
-  }
-}
+
   
 .header {
    position: fixed;
@@ -731,3 +726,10 @@ margin: 20px;
     .shape-2 { left: 60px; }
 
   }
+
+@media (max-width: 768px) {
+  section {
+    min-height: auto;
+    padding: 6rem 5% 2rem; /* smaller padding for mobile */
+  }
+}
